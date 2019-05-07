@@ -62,12 +62,17 @@ var groceries = ['apples', 'milk', 'eggs', 'bread']
 //name (a string), color (a string), age (a number),
 //and goodBoy (a boolean).
 
-//Code Here
+var dog = {
+  name: 'Sam',
+  color: 'black',
+  age: 12,
+  goodBoy: true
+}
 
 //...access the dog's name from the object and assign it to a
 //variable called devMountainClassPet.
 
-//Code Here
+var devMountainClassPet = dog.name
 
 //////////////////PROBLEM 10////////////////////
 
